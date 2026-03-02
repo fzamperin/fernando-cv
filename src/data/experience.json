@@ -1,21 +1,5 @@
 [
   {
-    "company": "2Mundos - Software House",
-    "role": "Senior DevOps/Infra Consultant",
-    "period": "Feb 2025 - Present",
-    "location": "São Paulo, Brazil",
-    "description": "Architected ArgoCD structure for new deployments for customers, designing project structures to facilitate automated deployments in Kubernetes environments.",
-    "highlights": [
-      "Spin up infrastructure with AWS",
-      "Create GitLab CI manifests and CI/CD pipelines",
-      "ArgoCD deployments and administration",
-      "Terraform templates for infrastructure as code",
-      "Kubernetes cluster administration",
-      "Dockerfiles and compilation support for multiple environments"
-    ],
-    "tech": ["AWS", "GitLab CI", "ArgoCD", "Terraform", "Kubernetes", "Docker"]
-  },
-  {
     "company": "Blackthorn.io - Salesforce Apps",
     "role": "Senior Full Stack Engineer",
     "period": "Aug 2023 - Present",
@@ -27,7 +11,41 @@
       "Development of CI/CD pipelines using GitHub Actions",
       "Coaching junior and mid-level developers"
     ],
-    "tech": ["Angular", "Node.js", "TypeScript", "AWS", "Redis", "Salesforce", "GitHub Actions"]
+    "tech": [
+      "Angular",
+      "Node.js",
+      "TypeScript",
+      "AWS",
+      "Redis",
+      "Salesforce",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "company": "Zamper Tecnologia",
+    "role": "Senior DevOps/Infra Consultant",
+    "period": "Jan 2024 - Present",
+    "location": "São Paulo, Brazil",
+    "description": "Costs optimization for AWS workloads, development of CI/CD pipelines and kubernetes workload optimization",
+    "highlights": [
+      "Spin up infrastructure with AWS",
+      "AWS Cost reduction",
+      "Create GitLab CI manifests and CI/CD pipelines",
+      "ArgoCD deployments and administration",
+      "Terraform templates for infrastructure as code",
+      "Kubernetes cluster administration and optimization",
+      "OTEL observability tools implementation",
+      "Dockerfiles and compilation support for multiple environments"
+    ],
+    "tech": [
+      "AWS",
+      "GitLab CI",
+      "ArgoCD",
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "OTEL"
+    ]
   },
   {
     "company": "Suno - Investments Industry",
@@ -42,7 +60,17 @@
       "Integrated and developed features using microservices and NestJS",
       "Coaching junior and mid-level developers"
     ],
-    "tech": ["Node.js", "NestJS", "React", "TypeScript", "NX", "GitLab CI", "AWS", "Kubernetes", "WebSockets"]
+    "tech": [
+      "Node.js",
+      "NestJS",
+      "React",
+      "TypeScript",
+      "NX",
+      "GitLab CI",
+      "AWS",
+      "Kubernetes",
+      "WebSockets"
+    ]
   },
   {
     "company": "Ingresse - Events Ticket Industry",
@@ -72,7 +100,16 @@
       "Mobile application development from scratch",
       "Working in an agile environment"
     ],
-    "tech": ["Python", "Flask", "Vue.js", "Ionic", "Cordova", "Bitbucket", "Azure", "SQL"]
+    "tech": [
+      "Python",
+      "Flask",
+      "Vue.js",
+      "Ionic",
+      "Cordova",
+      "Bitbucket",
+      "Azure",
+      "SQL"
+    ]
   },
   {
     "company": "OniQ Tecnologia",
@@ -88,6 +125,17 @@
       "Implementing new PoCs to improve development processes",
       "Agile project management"
     ],
-    "tech": ["Express", "NestJS", "Python", "Ionic", "React Native", "PostgreSQL", "MongoDB", "AWS", "Docker", "Firebase"]
+    "tech": [
+      "Express",
+      "NestJS",
+      "Python",
+      "Ionic",
+      "React Native",
+      "PostgreSQL",
+      "MongoDB",
+      "AWS",
+      "Docker",
+      "Firebase"
+    ]
   }
 ]
