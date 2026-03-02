@@ -8,6 +8,14 @@
     "featured": true
   },
   {
+    "name": "Hidden 18+ platform",
+    "description": "Content photo and video scrolling platform, responsible for implementing argocd, aws, k8s optimizations, sping up infrastructure using terraform and observability using OTEL",
+    "tech": ["AWS", "K8s", "Terraform", "OTEL", "Gitlab CI", "MongoDB"],
+    "url": "https://hidden.com",
+    "repo": null,
+    "featured": true
+  },
+  {
     "name": "Suno Stock Market API",
     "description": "Node.js API with React dashboard integrating with multiple APIs for real-time stock market data. Managed ~100k assets using HTTP, Crons, and WebSockets, serving 100k+ users.",
     "tech": ["Node.js", "NestJS", "React", "WebSockets", "PostgreSQL"],
@@ -16,7 +24,7 @@
     "featured": true
   },
   {
-    "name": "Video Streaming Mobile App",
+    "name": "CIH App",
     "description": "Mobile video streaming app built for a beauty and makeup course for a 1M+ follower influencer. Shipped through OniQ Tecnologia, reaching 100k+ users.",
     "tech": ["Ionic", "React Native", "Node.js", "AWS"],
     "url": null,
